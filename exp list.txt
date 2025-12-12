@@ -1,0 +1,111 @@
+0x1 1 Pack.SP01 Luxury Party Stuff
+0x2 2 Pack.GP01 Outdoor Retreat
+0x3 3 Pack.EP01 Get to Work
+0x5 5 Pack.FP01 Holiday Celebration
+0x4 4 Pack.SP02 Perfect Patio Stuff
+0x6 6 Pack.GP02 Spa Day
+0x7 7 Pack.SP03 Cool Kitchen Stuff
+0x8 8 Pack.SP04 Spooky Stuff
+0x9 9 Pack.EP02 Get Together
+0xa 10 Pack.GP03 Dine Out
+0xb 11 Pack.SP05 Movie Hangout Stuff
+0xc 12 Pack.SP06 Romantic Garden Stuff
+0xd 13 Pack.SP07 Kids Room Stuff
+0xe 14 Pack.SP08 Backyard Stuff
+0xf 15 Pack.SP09 Vintage Glamour Stuff
+0x10 16 Pack.SP10 Bowling Night Stuff
+0x11 17 Pack.GP04 Vampires
+0x12 18 Pack.GP05 Parenthood
+0x13 19 Pack.GP06 Jungle Adventure
+0x14 20 Pack.GP07 StrangerVille
+0x15 21 Pack.GP08 Realm of Magic
+0x16 22 Pack.GP09 Star Wars Journey to Batuu
+0x17 23 Pack.GP10 Dream Home Decorator
+0x18 24 Pack.EP03 City Living
+0x19 25 Pack.EP04 Cats & Dogs
+0x1a 26 Pack.EP05 Seasons
+0x1b 27 Pack.EP06 Get Famous
+0x1c 28 Pack.EP07 Island Living
+0x1d 29 Pack.EP08 Discover University
+0x1e 30 Pack.EP09 Eco Lifestyle
+0x1f 31 Pack.EP10 Snowy Escape
+0x20 32 Pack.SP11 Fitness Stuff
+0x21 33 Pack.SP12 Toddler Stuff
+0x22 34 Pack.SP13 Laundry Day Stuff
+0x23 35 Pack.SP14 My First Pet Stuff
+0x24 36 Pack.SP15 Moschino Stuff
+0x25 37 Pack.SP16 Tiny Living Stuff
+0x26 38 Pack.SP17 Nifty Knitting Stuff
+0x27 39 Pack.SP18 Paranormal Stuff
+0x28 40 Pack.SP19 
+0x29 41 Pack.SP20 Throwback Fit Kit
+0x2a 42 Pack.SP21 Country Kitchen Kit
+0x2b 43 Pack.SP22 Bust The Dust Kit
+0x2c 44 Pack.SP23 Courtyard Oasis Kit
+0x2d 45 Pack.SP24 Fashion Street Kit
+0x2e 46 Pack.SP25 Industrial Loft Kit
+0x2f 47 Pack.SP26 Incheon Arrivals Kit
+0x30 48 Pack.SP27 
+0x31 49 Pack.SP28 Modern Menswear Kit
+0x32 50 Pack.SP29 Blooming Rooms Kit
+0x33 51 Pack.SP30 Carnaval Streetwear Kit
+0x34 52 Pack.EP11 Cottage Living
+0x35 53 Pack.EP12 High School Years
+0x36 54 Pack.EP13 Growing Together
+0x37 55 Pack.EP14 Horse Ranch
+0x38 56 Pack.EP15 For Rent
+0x39 57 Pack.EP16 Lovestruck
+0x3a 58 Pack.EP17 Life & Death
+0x3b 59 Pack.EP18 Businesses & Hobbies
+0x3c 60 Pack.EP19 
+0x3d 61 Pack.EP20 
+0x3e 62 Pack.GP11 My Wedding Stories
+0x3f 63 Pack.GP12 Werewolves
+0x40 64 Pack.GP13 
+0x41 65 Pack.GP14 
+0x42 66 Pack.GP15 
+0x43 67 Pack.GP16 
+0x44 68 Pack.GP17 
+0x45 69 Pack.GP18 
+0x46 70 Pack.GP19 
+0x47 71 Pack.GP20 
+0x48 72 Pack.SP31 Decor to the Max Kit
+0x49 73 Pack.SP32 Moonlight Chic Kit
+0x4a 74 Pack.SP33 Little Campers Kit
+0x4b 75 Pack.SP34 First Fits Kit
+0x4c 76 Pack.SP35 Desert Luxe Kit
+0x4d 77 Pack.SP36 Pastel Pop Kit
+0x4e 78 Pack.SP37 Everyday Clutter Kit
+0x4f 79 Pack.SP38 Simtimates Collection Kit
+0x50 80 Pack.SP39 Bathroom Clutter Kit
+0x51 81 Pack.SP40 Greenhouse Haven Kit
+0x52 82 Pack.SP41 Basement Treasures Kit
+0x53 83 Pack.SP42 Grunge Revival Kit
+0x54 84 Pack.SP43 Book Nook Kit
+0x55 85 Pack.SP44 Poolside Splash Kit
+0x56 86 Pack.SP45 Modern Luxe Kit
+0x57 87 Pack.SP46 Home Chef Hustle Stuff
+0x58 88 Pack.SP47 Castle Estate Kit
+0x59 89 Pack.SP48 Goth Galore Kit
+0x5a 90 Pack.SP49 Crystal Creations Stuff
+0x5b 91 Pack.SP50 Urban Homage Kit
+0x5c 92 Pack.SP51 Party Essentials Kit
+0x5d 93 Pack.SP52 Riviera Retreat Kit
+0x5e 94 Pack.SP53 Cozy Bistro Kit
+0x5f 95 Pack.SP54 Artist Studio Kit
+0x60 96 Pack.SP55 Storybook Nursery Kit
+0x61 97 Pack.SP56 Sweet Slumber Party
+0x62 98 Pack.SP57 Cozy Kitsch
+0x63 99 Pack.SP58 Comfy Gamer
+0x64 100 Pack.SP59 Secret Sanctuary
+0x65 101 Pack.SP60 Casanova Cave
+0x66 102 Pack.SP61 Refined Living Room
+0x67 103 Pack.SP62 Business Chic
+0x68 104 Pack.SP63 
+0x69 105 Pack.SP64 
+0x6a 106 Pack.SP65 
+0x6b 107 Pack.SP66 
+0x6c 108 Pack.SP67 
+0x6d 109 Pack.SP68 
+0x6e 110 Pack.SP69 
+0x6f 111 Pack.SP70 
